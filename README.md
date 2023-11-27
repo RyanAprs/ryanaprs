@@ -5,7 +5,7 @@
 
 Hello there 👋,
 
-Saya adalah seorang insinyur perangkat lunak. Lihat proyek-proyek saya di bawah ini, dan silakan tinggalkan bintang (atau "suka") jika Anda menemukan sesuatu yang saya buat bermanfaat. Jangan ragu untuk terhubung dengan saya melalui media sosial yang tercantum di atas. Saya berharap dapat terhubung dengan Anda! ❤️
+I am a software engineer. Check out my projects below, and please leave a star (or a "like") if you found something I created helpful. Feel free to connect with me via the social media listed above. I look forward to connecting with you! ❤️
 
 ---
 
