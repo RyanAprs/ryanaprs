@@ -9,8 +9,8 @@ I am a software engineer. Check out my projects below, and please leave a star (
 
 Here's a list of my tech stack and skills:
 
-![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Javascript-green?style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
 
 ![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
