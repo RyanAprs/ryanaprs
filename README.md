@@ -3,7 +3,7 @@
 
 Hello there 👋,
 
-I am a software engineer. Check out my projects below, and please leave a star (or a "like") if you found something I created helpful. Feel free to connect with me via the social media listed above. I look forward to connecting with you! ❤️
+I am a junior programmer. Check out my projects below, and please leave a star (or a "like") if you found something I created helpful. Feel free to connect with me via the social media listed above. I look forward to connecting with you! ❤️
 
 ---
 
